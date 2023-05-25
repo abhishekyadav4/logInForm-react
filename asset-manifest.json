@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/logInForm-react/static/css/main.ed01d703.css",
+    "main.js": "/logInForm-react/static/js/main.41579301.js",
+    "static/js/787.aeb39de0.chunk.js": "/logInForm-react/static/js/787.aeb39de0.chunk.js",
+    "static/media/logo.svg": "/logInForm-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/logInForm-react/index.html",
+    "main.ed01d703.css.map": "/logInForm-react/static/css/main.ed01d703.css.map",
+    "main.41579301.js.map": "/logInForm-react/static/js/main.41579301.js.map",
+    "787.aeb39de0.chunk.js.map": "/logInForm-react/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed01d703.css",
+    "static/js/main.41579301.js"
+  ]
+}
